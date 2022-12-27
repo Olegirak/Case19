@@ -1,0 +1,15 @@
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.csproj.AssemblyReference.cache
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.AssemblyInfoInputs.cache
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.AssemblyInfo.cs
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.csproj.CoreCompileInputs.cache
+C:\Geekbrain\Case19\bin\Debug\net6.0\Case19.exe
+C:\Geekbrain\Case19\bin\Debug\net6.0\Case19.deps.json
+C:\Geekbrain\Case19\bin\Debug\net6.0\Case19.runtimeconfig.json
+C:\Geekbrain\Case19\bin\Debug\net6.0\Case19.dll
+C:\Geekbrain\Case19\bin\Debug\net6.0\Case19.pdb
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.dll
+C:\Geekbrain\Case19\obj\Debug\net6.0\refint\Case19.dll
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.pdb
+C:\Geekbrain\Case19\obj\Debug\net6.0\Case19.genruntimeconfig.cache
+C:\Geekbrain\Case19\obj\Debug\net6.0\ref\Case19.dll
