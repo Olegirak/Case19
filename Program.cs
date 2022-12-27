@@ -19,9 +19,9 @@ int Razryad(int N)
         return k;    
     }
    
-int Palindrom(int N)
+string Palindrom(int N)
 {
-    int d = 1;
+    string d = "Да";
     int i = 1;
     int k= Razryad( N);
     int j = k;
@@ -35,11 +35,11 @@ int Palindrom(int N)
         {
             i = i+1;
             j = j-1;
-            d = 1;
+           
         }
         else
         {
-            d = 0;
+             d = "Нет";
             return d;
             break;
         }       
@@ -47,11 +47,4 @@ int Palindrom(int N)
 return d ;   
 }
 
-if (Palindrom(N) == 1)
-{
-    Console.WriteLine($"Да");
-}
-else
-{
-    Console.WriteLine($"Нет");
-}
+Console.WriteLine(Palindrom(N));
